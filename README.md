@@ -2,7 +2,7 @@
 A collection of MATLAB scripts that can artificially add noise and remove noise to and from an audio file.
 
 ## Instructions
-1. First run the noisify.m file to produce a noise audio file called 'noisy_sound_file.wav'
+1. First run the noisify.m file to produce a noisy audio file called 'noisy_sound_file.wav'
 2. Then run the three denoisify files one by one.
 
 ## Aim: Removal of high frequency noise
